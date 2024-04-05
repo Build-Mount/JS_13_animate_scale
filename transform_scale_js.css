@@ -1,0 +1,30 @@
+#scale1 {
+  background-color:yellow;
+  position: absolute;
+  width: 300px;
+  height: 100px;
+}
+
+#scale2 {
+  background-color:red;
+  position: absolute;
+  width: 300px;
+  height: 100px;
+  top: 150px;
+}
+
+#scale3 {
+  background-color:blue;
+  position: absolute;
+  width: 300px;
+  height: 100px;
+  top: 300px;
+}
+
+#scale4 {
+  background-color:green;
+  position: absolute;
+  width: 300px;
+  height: 100px;
+  top: 450px;
+}
